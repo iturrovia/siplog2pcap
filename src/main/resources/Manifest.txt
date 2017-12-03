@@ -1,0 +1,5 @@
+Main-Class: siplog2pcap.Cli
+Specification-Title: siplog2pcap
+Specification-Version: 0.1.0
+Implementation-Title: siplog2pcap 
+Implementation-Version: build20171203
